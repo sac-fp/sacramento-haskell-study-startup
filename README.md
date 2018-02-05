@@ -14,6 +14,8 @@ All announcements pertaining to this study group will be sent out via Meetup and
 - **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book.**
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
 </br></br>
+**Check out the [sample chapters](resources/haskell-book-sample)** to get a taste!
+</br></br>
 **Discount codes** may be available if the cost is prohibitive. On the other hand, please do not ask for a discount if you don't really need it.
 
 - **Install [Stack](https://docs.haskellstack.org/en/stable/README/), the Haskell project development tool.**
