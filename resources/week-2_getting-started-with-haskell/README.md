@@ -14,3 +14,6 @@ See [notes on Stack](haskell-stack-notes.md).
 
 - Why does `mod (3 - 12) 7` equal `5`?
   - [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
+
+- Commutative, associative and distributive laws explained
+  - [Commutative, Associative and Distributive Laws](https://www.mathsisfun.com/associative-commutative-distributive.html)
