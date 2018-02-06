@@ -1,4 +1,4 @@
-# Extra materials for Week 1
+# Extra materials for Week 3
 *(Haskell Book, Chapters 4, 5 - Basic Datatypes)*
 
 ## Miscellaneous resources

@@ -1,4 +1,4 @@
-# Extra materials for Week 1
+# Extra materials for Week 2
 *(Haskell Book, Chapters 2,3 - Getting started with Haskell)*
 
 ## Installing the Haskell interpreter and standard libraries
