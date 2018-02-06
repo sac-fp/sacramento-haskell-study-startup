@@ -13,7 +13,7 @@ See [notes on Stack](haskell-stack-notes.md).
 ## Miscellaneous resources
 
 - Source of the quote in the beginning of the chapter
-  -[Alan Perlis - Epigrams In Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+  - [Alan Perlis - Epigrams In Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
 - Why does `mod (3 - 12) 7` equal `5`?
   - [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)
