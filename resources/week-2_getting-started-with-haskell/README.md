@@ -1,5 +1,5 @@
-# Extra materials for Week 2
-*(Haskell Book, Chapters 2,3 - Getting started with Haskell)*
+# Extra Resources for Week 2 (Getting Started with Haskell)
+*(Haskell Book, Chapters 2 and 3)*
 
 ## Installing the Haskell interpreter and standard libraries
 
@@ -10,10 +10,15 @@ See [notes on Stack](haskell-stack-notes.md).
 - [Questions](haskell-syntax-bonus-exercises-questions.md)
 - [Answers](haskell-syntax-bonus-exercises-answers.md)
 
-## Miscellaneous resources
+## Epigraph sources
 
-- Source of the quote in the beginning of the chapter
+- Chapter 2
+  - ?
+
+- Chapter 3
   - [Alan Perlis - Epigrams In Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+
+## Miscellaneous
 
 - Why does `mod (3 - 12) 7` equal `5`?
   - [Haskell div mod – Cyclical Division, Modulus Visualised](http://www.prigrammer.com/?p=321)

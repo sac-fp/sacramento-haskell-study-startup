@@ -1,10 +1,15 @@
-# Extra materials for Week 3
-*(Haskell Book, Chapters 4, 5 - Basic Datatypes)*
+# Extra Resources for Week 3 (Basic Datatypes)
+*(Haskell Book, Chapters 4 and 5)*
 
-## Miscellaneous resources
+## Epigraph sources
 
-- Source of the quote in the beginning of the chapter
+- Chapter 4
   - [Foreword by Robin Milner](http://www.ccs.neu.edu/home/matthias/BTML/foreword.html)
     to [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/)
+
+- Chapter 5
+  - [Wallace Stevens, "The Idea of Order at Key West"](https://www.poetryfoundation.org/poems/43431/the-idea-of-order-at-key-west)
+
+## Miscellaneous
 
 - [What is meant by single precision and double precision in floating point data types?](https://www.quora.com/What-is-meant-by-single-precision-and-double-precision-in-floating-point-data-types)
