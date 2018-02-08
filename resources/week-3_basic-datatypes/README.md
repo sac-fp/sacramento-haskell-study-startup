@@ -13,3 +13,8 @@
 ## Miscellaneous
 
 - [What is meant by single precision and double precision in floating point data types?](https://www.quora.com/What-is-meant-by-single-precision-and-double-precision-in-floating-point-data-types)
+
+- [What is associativity of operators and why is it important?](https://stackoverflow.com/questions/930486/what-is-associativity-of-operators-and-why-is-it-important)
+
+- *"Function arrows (i.e.,-> operator) associates to the right, but function application is left associative"*
+  - [Explanation with concrete examples](https://stackoverflow.com/questions/30440377/usefulness-of-function-arrows-associate-to-the-right)

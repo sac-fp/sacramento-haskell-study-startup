@@ -25,3 +25,5 @@ See [notes on Stack](haskell-stack-notes.md).
 
 - Commutative, associative and distributive laws explained
   - [Commutative, Associative and Distributive Laws](https://www.mathsisfun.com/associative-commutative-distributive.html)
+
+- [What is associativity of operators and why is it important?](https://stackoverflow.com/questions/930486/what-is-associativity-of-operators-and-why-is-it-important)
