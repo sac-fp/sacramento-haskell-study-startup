@@ -39,7 +39,7 @@ These expectations are not meant to make your life miserable but to provide a fr
 
 If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Come to the study group, and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
 
-### Conduct of code
+### Code of conduct
 
 By participating in this study group, you implicitly agree to conduct your coding as follows:
 
