@@ -13,7 +13,7 @@ See [notes on Stack](haskell-stack-notes.md).
 ## Epigraph sources
 
 - Chapter 2
-  - ?
+  - No definite source (yet). See [his profile at The University of Arizona](https://linguistics.arizona.edu/user/mike-hammond).
 
 - Chapter 3
   - [Alan Perlis - Epigrams In Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
