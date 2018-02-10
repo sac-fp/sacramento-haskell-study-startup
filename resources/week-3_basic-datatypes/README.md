@@ -18,7 +18,7 @@
 
 - [Monads, Arrows and Idioms (on Philip Wadler's homepage)](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
 
-- *"Function arrows (i.e.,-> operator) associates to the right, but function application is left associative"*
+- *"Function arrows (i.e.,-> operator) associate to the right, but function application is left associative"*
   - [Explanation with concrete examples](https://stackoverflow.com/questions/30440377/usefulness-of-function-arrows-associate-to-the-right)
 
 ## NoMonoMorphism language extension
