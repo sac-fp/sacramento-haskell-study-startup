@@ -40,7 +40,7 @@
 ## Miscellaneous
 
 - [Hoogle](https://www.haskell.org/hoogle/)
-  - "Hoogle is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature." For example, look up [`Int -> String`](https://www.haskell.org/hoogle/?hoogle=Int+-%3E+String)
+  - *"Hoogle is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature."* For example, look up [`Int -> String`](https://www.haskell.org/hoogle/?hoogle=Int+-%3E+String)
 
 - [The most general way to convert any type to `String` (Stackoverflow)](https://stackoverflow.com/questions/2784271/haskell-converting-int-to-string)
 
