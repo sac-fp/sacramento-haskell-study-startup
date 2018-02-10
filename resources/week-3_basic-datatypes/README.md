@@ -10,13 +10,16 @@
 - Chapter 5
   - [Wallace Stevens, "The Idea of Order at Key West"](https://www.poetryfoundation.org/poems/43431/the-idea-of-order-at-key-west)
 
-## (->) (i.e., "funciton arrow" or "function type constructor")
+## (->) (i.e., "function arrow" or "function type constructor")
 
 - [Where can I read up on the haskell “->” operator?](https://stackoverflow.com/questions/9136421/where-can-i-read-up-on-the-haskell-operator)
 
 - [Arrows: A General Interface to Computation](https://www.haskell.org/arrows/)
 
-- [Monads, Arrows and Idioms (on Philip Wadler's homepage](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
+- [Monads, Arrows and Idioms (on Philip Wadler's homepage)](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
+
+- *"Function arrows (i.e.,-> operator) associates to the right, but function application is left associative"*
+  - [Explanation with concrete examples](https://stackoverflow.com/questions/30440377/usefulness-of-function-arrows-associate-to-the-right)
 
 ## NoMonoMorphism language extension
 
@@ -44,9 +47,6 @@
 - [What is meant by single precision and double precision in floating point data types?](https://www.quora.com/What-is-meant-by-single-precision-and-double-precision-in-floating-point-data-types)
 
 - [What is associativity of operators and why is it important?](https://stackoverflow.com/questions/930486/what-is-associativity-of-operators-and-why-is-it-important)
-
-- *"Function arrows (i.e.,-> operator) associates to the right, but function application is left associative"*
-  - [Explanation with concrete examples](https://stackoverflow.com/questions/30440377/usefulness-of-function-arrows-associate-to-the-right)
 
 - [Haskell: `where` vs `let` (Stackoverflow)](https://stackoverflow.com/questions/4362328/haskell-where-vs-let)
 
