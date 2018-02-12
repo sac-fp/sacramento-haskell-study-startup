@@ -3,12 +3,11 @@
 
 ## Epigraph sources
 
-- Chapter N
-  - [placeholder](url)
+- Chapter 6
+  - [Mokokoma Mokhonoana](http://www.mokokoma.com/)
 
 ## Miscellaneous
 
-- [Hoogle](https://www.haskell.org/hoogle/)
-  - *"Hoogle is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature."* For example, look up [`Int -> String`](https://www.haskell.org/hoogle/?hoogle=Int+-%3E+String)
+- [Philip Wadler. The Expression Problem (introducing typeclasses to Haskell)](http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt)
 
-- [placeholder](url)
+- [Show instance for functions](https://wiki.haskell.org/Show_instance_for_functions)
