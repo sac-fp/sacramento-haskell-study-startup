@@ -37,6 +37,8 @@
 
 - [Parametricity (on Philip Wadler's homepage)](http://homepages.inf.ed.ac.uk/wadler/topics/parametricity.html)
 
+- [Parametricity Tutorial (Part 1)](https://www.well-typed.com/blog/2015/05/parametricity/)
+
 ## Miscellaneous
 
 - [Hoogle](https://www.haskell.org/hoogle/)
