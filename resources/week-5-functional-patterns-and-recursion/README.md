@@ -3,8 +3,8 @@
 
 ## Epigraph sources
 
-- Chapter N
-  - [placeholder](url)
+- Chapter 7
+  - [Why We Abstract, and What To Do When We Can't](http://invisibleblocks.com/2008/4/5/why-we-abstract-and-what-to-do-when-we-cant/)
 
 ## Miscellaneous
 
