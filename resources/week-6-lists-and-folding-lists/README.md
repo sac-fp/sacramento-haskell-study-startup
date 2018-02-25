@@ -18,3 +18,5 @@
 > a == b
 > -- True
 ```
+
+*"Lazy in the spine, strict in the leaves."*
