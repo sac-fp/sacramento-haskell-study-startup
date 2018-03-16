@@ -1,5 +1,5 @@
-# Extra Resources for Week 6 (title)
-*(Haskell Book, Chapters 9 & 10)*
+# Extra Resources for Week N (title)
+*(Haskell Book, Chapters NNN)*
 
 ## Epigraph sources
 
@@ -8,15 +8,31 @@
 
 ## Miscellaneous
 
-- [placeholder](url)
-
-## Notes
-
 ```haskell
-> let a = (:) 1 $ (:) 2 $ (:) 3 []
-> let b = ((((:) 1 ((:) 2 ((:) 3 [])))))
-> a == b
-> -- True
+scanl :: (a -> b -> a) -> a -> [b] -> [a]
+scanl f q []     = q : []
+scanl f q (x:xs) = scanl f (f q x) xs
+
+
+fibs = 1 : scanl (+) 1 fibs
+                  f  q
+       x   ___xs___________
+
+fibs = 1 : 1 : scanl (+) (1+1) fibs
+                      f  __q__
+           x : __xs________________
+
+fibs = 1 : 1 : 2 : scanl (+) (2+1) fibs
+                          f  __q__
+               x   __xs________________
+
+fibs = 1 : 1 : 2 : 5 : scanl (+) (2+1) fibs
+                              f  __q__
+                   x   __xs________________
+
+fibs = 1 : 1 : 2 : 5 : 8 : scanl (+) (2+1) fibs
+                                  f  __q__
+                       x   __xs________________
 ```
 
-*"Lazy in the spine, strict in the leaves."*
+- [placeholder](url)
