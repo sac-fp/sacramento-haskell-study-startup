@@ -79,9 +79,8 @@ squishAgain = squishMap (++ [])
 -- I couldn't get it to work with `foldr` because of
 -- its laziness.
 --
--- Ask another question but adding the special cases
--- in the book:
--- https://codereview.stackexchange.com/questions/187177/custom-maximumby-and-minimumby-in-haskell
+-- Question asked:
+-- https://codereview.stackexchange.com/questions/189885/maximumby-using-foldr-that-satisfies-special-cases-with-gt-and
 myMaximumBy :: (a -> a -> Ordering) -> [a] -> a
 myMaximumBy f (x:xs) = foldl doF x xs
   where
