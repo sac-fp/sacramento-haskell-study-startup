@@ -79,7 +79,13 @@ squishAgain = squishMap (++ [])
 -- I couldn't get it to work with `foldr` because of
 -- its laziness.
 --
--- Question asked:
+-- It just occured to me, writing out the evaluation steps of foldl
+-- and foldr, that this exercise has been probably engineered to use foldl
+-- explicitly, because the special cases above would naturally yield those
+-- results. (For example, for myMaximumBy (\_ _ -> GT) [1..10] it is (1 f 2)
+-- f 3 etc. would always yield the first argument, which is 1.)
+--
+-- A question:
 -- https://codereview.stackexchange.com/questions/189885/maximumby-using-foldr-that-satisfies-special-cases-with-gt-and
 myMaximumBy :: (a -> a -> Ordering) -> [a] -> a
 myMaximumBy f (x:xs) = foldl doF x xs
@@ -88,5 +94,11 @@ myMaximumBy f (x:xs) = foldl doF x xs
      | f a b == GT = a
      | otherwise   = b
 
+myMaximumByV2 :: (a -> a -> Ordering) -> [a] -> a
+myMaximumByV2 = foldr dof 0
+  where
+    dof a b
+     | f a b == GT = a + b
+     | otherwise   = b + b
 -- 11 ---
 -- along the same lines as 10
