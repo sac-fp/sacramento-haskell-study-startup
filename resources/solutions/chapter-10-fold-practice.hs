@@ -49,9 +49,3 @@ concatMapWithFoldr f xs = foldr (\a bs -> f a ++ bs) [] xs
 --                b = [b]
 --                    (f a) will evaluate to [b] so that's perfect
 --                           base case = [] (or identity)
-
-maxByWithFoldr :: (a -> a -> Ordering) -> [a] -> a
-maxByWithFoldr f (x:xs) = foldr (\a max -> if (f a max) == GT then a else max) x xs
-
-minByWithFoldr :: (a -> a -> Ordering) -> [a] -> a
-minByWithFoldr f (x:xs) = foldr (\a min -> if (f a min) == GT then min else a) x xs
